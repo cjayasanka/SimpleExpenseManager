@@ -22,9 +22,7 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.impl.InMemoryAccountDAO;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.impl.InMemoryTransactionDAO;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.Account;
 
-/**
- *
- */
+
 public class InMemoryDemoExpenseManager extends ExpenseManager {
 
     public InMemoryDemoExpenseManager() {
